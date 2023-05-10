@@ -1,0 +1,10 @@
+name: XProjectClans
+description: "XProject Clans"
+version: 1.0
+main: ru.quassbottle.XProjectClans
+api-version: 1.15
+commands:
+  clan:
+    description: "Clan command"
+    aliases: 
+      - c
